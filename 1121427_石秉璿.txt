@@ -1,3 +1,3 @@
 學號：1121427
 姓名：石秉璿
-GitHub 倉庫網址：請在建立 GitHub Repository 後，將此行改成你的 GitHub 網址，例如 https://github.com/your-account/WAVPlayer
+https://github.com/AustinProgrammer27/WAVPlayer_1121427
